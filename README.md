@@ -1,4 +1,6 @@
-# lab_week
+#Lab Week Plan#
+Dan, Gus, Joe and Rob
+
 
 Functionalities
 
