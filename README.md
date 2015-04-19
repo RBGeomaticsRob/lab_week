@@ -2,7 +2,7 @@
 Dan, Gus, Joe and Rob
 
 
-Functionalities
+##Functionalities##
 
 Sign Up
 Sign In
@@ -17,7 +17,7 @@ Categorize Locations for multiple types(Advanced)
 Google / Facebook Sign-up (Advanced)
 Add Google Analytics to the page (Advanced)
 
-User Stories
+##User Stories##
 
 As a user
 In order to have a profile
@@ -40,7 +40,7 @@ So I get an accurate account of users views
 I want users to be able to make one vote per location a day
 
 
-MVP Roadmap
+##MVP Roadmap##
 
 MVP1 - User can log in, add a pub in York. (Mon)
 
@@ -55,3 +55,14 @@ MVP4b - MVP5 + Display votes in a time period and by town (Wed)
 Thurs - Advanced Features
 
 Fri - Polish
+
+###Rob - Learning Plan###
+
+- Revist REST and how this fits with Server Technologies
+- Structure and Styling of webpages using HTML and CSS, become more happy with producing good UI using modern principles.
+- Understand further how databases and their contents are secured, looking at further implementation that just how to secure a password with BCrypt
+- Explore the implementation of associations in datamapper further and how to build something more complex and persisting data retrieved from ajax calls.
+- Keep using Javascript and jQuery with Jasmine and explore it further, working through the Duckett book.
+- Implement AJAX calls for dynamic delivery of content and interaction with third-party APIs.
+- Testing structures when using multiple technologies?
+- OOP in javascript and finish the Metz book. - To be done with the bowling challenge in second weekend.
