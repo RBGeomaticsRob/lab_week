@@ -12,11 +12,11 @@ Dan, Gus, Joe and Rob
 - See a ranked list of pubs in my town in a time range
 
 - Display pubs on a map(Advanced)
-- Enter a pub with a map (Advanced)
+- Enter a pub location with a map (Advanced)
 - Categorize Locations for multiple types(Advanced)
 - Google / Facebook Sign-up (Advanced)
 - Add Google Analytics to the page (Advanced)
-- 
+ 
 (As a thought if we were looking for alternative theme Road Potholes could be an alternative to pubs, people can register their annoyance to their local road authority)
 
 ##User Stories##
