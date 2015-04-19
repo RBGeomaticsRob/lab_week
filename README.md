@@ -16,6 +16,8 @@ Dan, Gus, Joe and Rob
 - Categorize Locations for multiple types(Advanced)
 - Google / Facebook Sign-up (Advanced)
 - Add Google Analytics to the page (Advanced)
+- 
+(As a thought if we were looking for alternative theme Road Potholes could be an alternative to pubs, people can register their annoyance to their local road authority)
 
 ##User Stories##
 
