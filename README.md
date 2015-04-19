@@ -4,18 +4,18 @@ Dan, Gus, Joe and Rob
 
 ##Functionalities##
 
-Sign Up
-Sign In
-Enter a pub with a title, and town
-Ability to upvote a pub once
-See what other users have voted
-See a ranked list of pubs in my town in a time range
+- Sign Up
+- Sign In
+- Enter a pub with a title, and town
+- Ability to upvote a pub once
+- See what other users have voted
+- See a ranked list of pubs in my town in a time range
 
-Display pubs on a map(Advanced)
-Enter a pub with a map (Advanced)
-Categorize Locations for multiple types(Advanced)
-Google / Facebook Sign-up (Advanced)
-Add Google Analytics to the page (Advanced)
+- Display pubs on a map(Advanced)
+- Enter a pub with a map (Advanced)
+- Categorize Locations for multiple types(Advanced)
+- Google / Facebook Sign-up (Advanced)
+- Add Google Analytics to the page (Advanced)
 
 ##User Stories##
 
